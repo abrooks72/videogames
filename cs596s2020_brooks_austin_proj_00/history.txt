@@ -1,0 +1,35 @@
+    1  ls
+    2  ls -la
+    3  git init
+    4  git remote add origin https://rijeka.sdsu.edu/abrooks72583/cs596s2020_brooks_austin_proj_00.git
+    5  git add .
+    6  git status
+    7  git pull --rebase
+    8  git status
+    9  git commit -m "Initial commit"
+   10  git config --global user.name "Austin Brooks"
+   11  git config --global user.email "austin.williambrooks@gmail.com"
+   12  git commit -m "Initial commit"
+   13  git push -u origin dev
+   14  git push -u origin master
+   15  git push -u origin dev
+   16  git checkout -b dev
+   17  git status
+   18  git fetch
+   19  git push -u origin dev
+   20  git status
+   21  checkout master
+   22  git checkout master
+   23  git status
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m"I have made a script"
+   28  git push
+   29  git push -u origin master
+   30  git pull --rebase
+   31  git branch --set-upstream-to=origin/master master
+   32  git pull --rebase
+   33  git push -u origin master
+   34  history
+   35  history >> history.txt
